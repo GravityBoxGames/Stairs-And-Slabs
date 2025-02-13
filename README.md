@@ -4,9 +4,9 @@
 Enhance your building creativity with new stair and slab variants for vanilla blocks that previously lacked them! This mod seamlessly expands the Minecraft experience, offering more design possibilities while staying true to the game’s aesthetic. Perfect for Survival, Creative, Adventure Maps, and Multiplayer Servers, this mod unlocks fresh architectural potential for your worlds! 🏠✨
   
 ### 🛠 Key Features
-✅ New Stairs & Slabs - Added for a variety of vanilla blocks, allowing for smoother transitions and more detailed builds.
-✅ Fully Compatible : Works just like existing stairs and slabs, with proper crafting recipes and block behaviors.
-✅ Immersive Integration : Recipes and placement mechanics feel natural within Minecraft’s building system, and advancements unlock recipes as you progress.  
+✅ **New Stairs & Slabs** - Added for a variety of vanilla blocks, allowing for smoother transitions and more detailed builds.  
+✅ **Fully Compatible** - Works just like existing stairs and slabs, with proper crafting recipes and block behaviors.  
+✅ **Immersive Integration** - Recipes and placement mechanics feel natural within Minecraft’s building system, and advancements unlock recipes as you progress.   
   
 ### 📥 Installation 
 1️⃣ Download the mod from Forge.  
