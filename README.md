@@ -1,4 +1,6 @@
 # Enhanced Stairs And Slabs
+
+Latest version : 1.0.1
   
 ### ✨ Description   
 Enhance your building creativity with new stair and slab variants for vanilla blocks that previously lacked them! This mod seamlessly expands the Minecraft experience, offering more design possibilities while staying true to the game’s aesthetic. Perfect for Survival, Creative, Adventure Maps, and Multiplayer Servers, this mod unlocks fresh architectural potential for your worlds! 🏠✨
